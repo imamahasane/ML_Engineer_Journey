@@ -25,9 +25,9 @@ You can follow any of the courses given below to clear your data structure and a
 ### Database 
 No matter which career track you choose, you need to have a good idea about Relational Database and SQL. Some courses are given below to clear your SQL concepts.
 
-1. https://www.youtube.com/watch?v=HXV3zeQKqGY
-2. https://www.youtube.com/watch?v=1dWCqjhvF58
-3. https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
+1. https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
+2. https://www.youtube.com/watch?v=HXV3zeQKqGY
+3. https://www.youtube.com/watch?v=1dWCqjhvF58
 
 # `Week 8-10`
 
