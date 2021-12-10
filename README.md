@@ -29,3 +29,13 @@ No matter which career track you choose, you need to have a good idea about Rela
 2. https://www.youtube.com/watch?v=1dWCqjhvF58
 3. https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
 
+# `Week 8-10`
+
+### NumPy and Pandas
+...
+...
+
+### Matplotlib and Seaborn
+...
+...
+
