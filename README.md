@@ -8,8 +8,9 @@ software engineer, obviously we need to know the `Programming Language.` The bes
 I first honed my coding skills following a python complete course. You can follow any of the courses given below to clear your programming concepts.
 
 1. https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0
-2. https://www.coursera.org/learn/python/home/welcome
-3. https://www.freecodecamp.org/learn/scientific-computing-with-python/
+2. https://www.freecodecamp.org/learn/scientific-computing-with-python/
+3. https://www.coursera.org/learn/python/home/welcome
+
 
 ### Data Structures and Algorithms
 A good software engineer has an important skill of a solid understanding of `Data Structures and Algorithms.`
