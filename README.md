@@ -44,3 +44,6 @@ No matter which career track you choose, you need to have a good idea about Rela
 ...
 ...
 
+### `NumPy and Pandas, Matplotlib and Seaborn, A great video to learn together`
+1. https://www.youtube.com/watch?v=r-uOLxNrNk8
+
