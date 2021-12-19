@@ -52,5 +52,5 @@ No matter which career track you choose, you need to have a good idea about Rela
 
 
 
--  `Finality: Anyone can join us by sharing advice and good resources`
+-  `Finality: Anyone can join us by sharing advice and good resources. Advance thanks.`
 
