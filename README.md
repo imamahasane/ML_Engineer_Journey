@@ -18,8 +18,9 @@ I first honed my coding skills following a python complete course. You can follo
 A good software engineer has an important skill of a solid understanding of `Data Structures and Algorithms.`
 You can follow any of the courses given below to clear your data structure and algorithm concepts.
 
-1. https://classroom.udacity.com/courses/ud513
+1. https://www.youtube.com/watch?v=8hly31xKli0
 2. https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
+3. https://classroom.udacity.com/courses/ud513
 
 * You can solve some problems `online judge` to improve your programming skills. Together I like https://www.hackerrank.com/
 
