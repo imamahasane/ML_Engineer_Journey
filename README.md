@@ -2,6 +2,8 @@
 `Machine Learning` engineer is a very specialized skill. Machine Learning engineer has to be a good `Software Engineer` first. And as a
 software engineer, obviously we need to know the `Programming Language.` The best programming language for Machine Learning engineers no doubts `Python.`
 
+- `I personally like to follow Fricodecamp's YouTube and website`
+
 # `Week 1-5`
 
 ### Coding Skills
