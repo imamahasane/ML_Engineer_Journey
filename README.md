@@ -31,9 +31,8 @@ No matter which career track you choose, you need to have a good idea about Rela
 
 1. https://www.youtube.com/watch?v=AA7i2GcTGwU
 2. https://www.youtube.com/watch?v=HXV3zeQKqGY
-3. https://www.youtube.com/watch?v=7S_tz1z_5bA
-4. https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
-5. https://www.youtube.com/watch?v=1dWCqjhvF58
+3. https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
+4. https://www.youtube.com/watch?v=1dWCqjhvF58
 
 # `Week 8-10`
 
@@ -53,11 +52,13 @@ No matter which career track you choose, you need to have a good idea about Rela
 
 ### `NumPy and Pandas, Matplotlib and Seaborn, A great video to learn together`
 1. https://www.youtube.com/watch?v=r-uOLxNrNk8
-.
-.
-.
 
 
+|>
+
+|>
+
+|>
 
 -  `Finality: Anyone can join us by sharing advice and good resources. Advance thanks.`
 
